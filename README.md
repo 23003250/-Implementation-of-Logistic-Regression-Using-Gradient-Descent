@@ -114,7 +114,6 @@ print(y_prednew)
 ![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/a7b6a576-f916-4792-a189-9df2e8ca530f)
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
 ### Accuracy
 
 ![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/12a41cc4-18b2-4375-a7eb-9d1c4a554cc5)
@@ -124,8 +123,6 @@ print(y_prednew)
 ### New accuracy
 ![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/36fd6f69-d021-4489-b46a-ab4f68f410ea)
 
-### New accuracy
-![image](https://github.com/SanjayRagavendar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/91368803/36fd6f69-d021-4489-b46a-ab4f68f410ea)
 
 ## Result:
 
