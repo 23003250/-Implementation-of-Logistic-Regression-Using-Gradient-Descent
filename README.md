@@ -114,8 +114,9 @@ y_prednew = predict(theta, xnew)
 print(y_prednew)
 ```
 
-
-
+<br>
+<br>
+<br>
 
 
 
