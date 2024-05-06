@@ -115,8 +115,6 @@ print(y_prednew)
 ```
 
 <br>
-<br>
-<br>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
